@@ -1,2 +1,3 @@
 line 1 -- ABC
 line 2 -- DEF
+line 3 -- after commit
