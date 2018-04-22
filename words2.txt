@@ -1,0 +1,2 @@
+added by using WebStorm
+Testing Git integration in WebStorm
